@@ -1,22 +1,120 @@
 main:
+  - title: "DreamScene: 3D Gaussian-based End-to-end Text-to-3D Scene Generation"
+    authors: <strong>Haoran Li</strong>, Yuli Tian, Kun Lan, Yong Liao, Lin Wang, Pan Hui, Peng Yuan Zhou
+    conference_short: TPAMI
+    conference: <strong>TPAMI</strong>,2025
+    page: https://jahnsonblack.github.io/DreamScene-Full/
+    pdf: https://arxiv.org/pdf/2507.13985
+    code: https://github.com/DreamScene-Project/DreamScene
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: assets\img\dreamscene_tpami.png
+    #notes: Early Accept
+    category: 3D Generation & World Models
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "Text-to-3D Generation by 2D Editing"
+    authors: <strong>Haoran Li</strong>, Yuli Tian, Yonghui Wang, Yong Liao, Lin Wang, Yuyang Wang, Peng Yuan Zhou
+    #conference_short: CVPR
+    conference: arxiv, 2025
+    page: https://jahnsonblack.github.io/GE3D/
+    pdf: https://arxiv.org/pdf/2412.05929
+    code: https://github.com/Jahnsonblack/GE3D/tree/main 
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #notes: Oral Presentation
+    image: assets\img\GE3D.png
+    category: 3D Generation & World Models
+  
+  - title: "Dreamscene: 3D Gaussian-based Text-to-3d Scene Generation via Formation Pattern Sampling"
+    authors: <strong>Haoran Li</strong>, Haolin Shi, Wenli Zhang, Wenjun Wu, Yong Liao, Lin Wang, Lik-hang Lee, Peng Yuan Zhou
+    conference_short: ECCV
+    conference: <strong>ECCV</strong>, 2024
+    page: https://dreamscene-project.github.io/
+    pdf: https://arxiv.org/pdf/2404.03575
+    code: https://github.com/DreamScene-Project/DreamScene 
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #notes: Oral Presentation
+    image: assets\img\dreamscene_eccv.png
+    category: 3D Generation & World Models
+  
+  - title: "3D-GOI: 3D GAN Omni-Inversion for Multifaceted and Multi-object Editing"
+    authors: <strong>Haoran Li</strong>, Long Ma, Haolin Shi, Yanbin Hao, Yong Liao, Lechao Cheng, Peng Yuan Zhou
+    conference_short: ECCV
+    conference: <strong>ECCV</strong>, 2024
+    page: https://3d-goi.github.io/
+    pdf: https://arxiv.org/pdf/2311.12050
+    code: https://github.com/3D-GOI/3D-GOI 
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #notes: Oral Presentation
+    image: assets\img\3dgoi.png
+    category: 3D Generation & World Models
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "TKN: Transformer-based Keypoint Prediction Network For Real-time Video Prediction"
+    authors: <strong>Haoran Li</strong>, Pengyuan Zhou, Yihang Lin, Yanbin Hao, Haiyong Xie, Yong Liao
+    conference_short: CCICS
+    conference: <strong>CCICS</strong>, 2025
+    # page: https://3d-goi.github.io/
+    pdf: https://arxiv.org/pdf/2303.09807
+    code: https://github.com/Jahnsonblack/TKN 
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #notes: Oral Presentation
+    image: assets\img\tkn.png
+    category: 3D Generation & World Models
+  
+  - title: "Root: Vlm based system for indoor scene understanding and beyond"
+    authors: Yonghui Wang, Shi-Yong Chen, Zhenxing Zhou, Siyi Li, <strong>Haoran Li</strong>, Wengang Zhou, Houqiang Li
+    #conference_short: 
+    conference: <strong>Science China Information Sciences</strong>, 2025 (Under Review)
+    page: https://harrytea.github.io/ROOT/
+    pdf: https://arxiv.org/pdf/2411.15714
+    code: https://github.com/harrytea/ROOT 
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #notes: Oral Presentation
+    image: assets\img\root.png
+    category: 3D Perception & Understanding
+  
+  - title: "2D-Guided 3D Gaussian Segmentation"
+    authors: Kun Lan, <strong>Haoran Li</strong>, Haolin Shi, Wenjun Wu, Lin Wang, Yong Liao
+    conference_short: ASIANComNet
+    conference: <strong>ASIANComNet</strong>, 2024
+    # page: https://harrytea.github.io/ROOT/
+    pdf: https://arxiv.org/pdf/2312.16047
+    #code: https://github.com/harrytea/ROOT 
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #notes: Oral Presentation
+    image: assets\img\2d-guided.png
+    category: 3D Perception & Understanding
+  
+  - title: "Noise-NeRF: Hide Information in Neural Radiance Field Using Trainable Noise"
+    authors: Qinglong Huang, <strong>Haoran Li</strong>, Yong Liao, Yanbin Hao, Pengyuan Zhou
+    conference_short: ICANN
+    conference: <strong>ICANN</strong>, 2024
+    # page: https://harrytea.github.io/ROOT/
+    pdf: https://arxiv.org/pdf/2401.01216
+    #code: https://github.com/harrytea/ROOT 
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #notes: Oral Presentation
+    image: assets\img\noise-nerf.png
+    category: 3D Perception & Understanding
+
+  - title: "Towards Neuro-Inspired Reasoning of AI Agents"
+    authors: <strong>Haoran Li*</strong>, Zinan Liu*, Jingyi Lu, Gaoyuan Ma, Hong Xu, Giovanni Iacca, Arvind Kumar, Shaojun Tang, Yong Liao, Lin Wang
+    #conference_short: ICANN
+    conference: <strong>Nature Computational Science</strong>, 2025 (Under Review)
+    # page: https://harrytea.github.io/ROOT/
+    pdf: https://www.researchgate.net/profile/Haoran-Li-112/publication/395895907_Towards_Neuro-Inspired_Reasoning_of_AI_Agents/links/68d7976ad221a404b2a2e6c2/Towards-Neuro-Inspired-Reasoning-of-AI-Agents.pdf
+    code: https://github.com/BioRAILab/Awesome-Neuroscience-Agent-Reasoning
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #notes: Oral Presentation
+    image: assets\img\agent-reasoning.png
+    category: AI for Science & Agent Reasoning
+
+  - title: "Towards Neuro-Inspired Reasoning of AI Agents"
+    authors: Zinan Liu*, <strong>Haoran Li*</strong>, Jingyi Lu, Gaoyuan Ma, Xu Hong, Giovanni Iacca, Arvind Kumar, Shaojun Tang, Lin Wang
+    #conference_short: ICANN
+    conference: <strong>TPAMI</strong>, 2025 (Under Review)
+    # page: https://harrytea.github.io/ROOT/
+    pdf: https://arxiv.org/pdf/2505.05515 
+    code: https://github.com/BioRAILab/Awesome-Neuroscience-Agent-Reasoning 
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #notes: Oral Presentation
+    image: assets\img\agent-reasoning2.png
+    category: AI for Science & Agent Reasoning

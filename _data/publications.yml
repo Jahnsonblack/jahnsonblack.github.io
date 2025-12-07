@@ -2,7 +2,7 @@ main:
   - title: "DreamScene: 3D Gaussian-based End-to-end Text-to-3D Scene Generation"
     authors: <strong>Haoran Li</strong>, Yuli Tian, Kun Lan, Yong Liao, Lin Wang, Pan Hui, Peng Yuan Zhou
     conference_short: TPAMI
-    conference: <strong>TPAMI</strong>,2025
+    conference: <strong>TPAMI</strong>, 2025
     page: https://jahnsonblack.github.io/DreamScene-Full/
     pdf: https://arxiv.org/pdf/2507.13985
     code: https://github.com/DreamScene-Project/DreamScene

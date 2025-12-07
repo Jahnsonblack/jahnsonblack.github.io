@@ -107,7 +107,7 @@ main:
     image: assets\img\agent-reasoning.png
     category: AI for Science & Agent Reasoning
 
-  - title: "Towards Neuro-Inspired Reasoning of AI Agents"
+  - title: "Nature’s Insight: A Novel Framework and Comprehensive Analysis of Agentic Reasoning Through the Lens of Neuroscience"
     authors: Zinan Liu*, <strong>Haoran Li*</strong>, Jingyi Lu, Gaoyuan Ma, Xu Hong, Giovanni Iacca, Arvind Kumar, Shaojun Tang, Lin Wang
     #conference_short: ICANN
     conference: <strong>TPAMI</strong>, 2025 (Under Review)

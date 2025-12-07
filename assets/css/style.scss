@@ -2,3 +2,29 @@
 ---
 
 @import "minimal-light";
+/* ===== Experience Layout Fix ===== */
+
+.exp-row {
+    display: flex;
+    align-items: center;
+    gap: 18px;           // 左右间距
+    margin-bottom: 14px; // 每条之间紧一些
+}
+
+.exp-row .abbr img {
+    width: 110px;
+    height: auto;
+    object-fit: contain;
+}
+
+.exp-row .title {
+    font-size: 1.05rem;
+    line-height: 1.45rem;
+    color: #333;
+}
+
+.exp-row company {
+    font-weight: 600;
+    font-size: 1.12rem;
+    color: #2b4b6f;
+}

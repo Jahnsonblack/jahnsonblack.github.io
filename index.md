@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a fifth-year Ph.D. candidate at the University of Science and Technology of China (USTC), where I also received my Bachelor’s degree. I am supervised by [Prof. Manqing Wu](https://baike.baidu.com/item/%E5%90%B4%E6%9B%BC%E9%9D%92/42143) and [Prof. Yong Liao](https://iat.ustc.edu.cn/iat/xnds535/20220328/5621.html), and previously worked  worked with [Prof. Pengyuan Zhou](https://pure.au.dk/portal/en/persons/peng-yuan-zhou/) and [Prof. Haiyong Xie](https://sites.google.com/view/haiyongxie). My research interests lie in world models, 3D scene generation and editing, 3D understanding, and video generation. I recently visited Nanyang Technological University (NTU), where I worked with [Prof. Lin Wang](ntu.edu.sg/research/faculty-directory/detail/Lin-Wang) on AI for Science and agent reasoning.
+I received my Ph.D. and Bachelor’s degree from the University of Science and Technology of China (USTC). During my Ph.D., I was supervised by [Prof. Yong Liao](https://iat.ustc.edu.cn/iat/xnds535/20220328/5621.html), and previously worked with [Prof. Pengyuan Zhou](https://pure.au.dk/portal/en/persons/peng-yuan-zhou/) and [Prof. Haiyong Xie](https://sites.google.com/view/haiyongxie). My research interests lie in world models, 3D scene generation and editing, 3D understanding, and video generation. I recently visited Nanyang Technological University (NTU), where I worked with [Prof. Lin Wang](ntu.edu.sg/research/faculty-directory/detail/Lin-Wang) on AI for Science and agent reasoning. I have now joined JD Explore Academy, working on the TGT project.
 
 ## Research Interests
 

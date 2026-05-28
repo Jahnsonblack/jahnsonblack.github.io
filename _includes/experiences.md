@@ -1,5 +1,19 @@
 <h2 id="experiences">Experiences</h2>
 
+<!-- JD Explore Academy -->
+<div class="exp-row" style="position: relative;padding-left: 30px;">
+  <div class="col-sm-3">
+    <img src="./assets/img/jd_logo.svg" class="img-fluid" width="100" />
+  </div>
+  <div class="col-sm-2" style="position: relative;padding-right: 0px;padding-left: 30px;"></div>
+  <div class="title">
+    <company>JD Explore Academy</company><br>
+    Apr. 2026 – <strong>Present</strong><br>
+    TGT Project
+  </div>
+</div>
+
+
 <!-- USTC PhD -->
 <div class="exp-row" style="position: relative;padding-left: 30px;">
   <div class="col-sm-3">
@@ -8,8 +22,8 @@
   <div class="col-sm-2" style="position: relative;padding-right: 0px;padding-left: 30px;"></div>
   <div class="title">
     <company>University of Science and Technology of China</company><br>
-    Sep. 2020 – <strong>Present</strong><br>
-    Ph.D. Student
+    Sep. 2020 – Mar. 2026<br>
+    Ph.D.
   </div>
 </div>
 

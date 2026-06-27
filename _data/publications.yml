@@ -1,6 +1,6 @@
 main:
   - title: "JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation"
-    authors: <strong>Haoran Li*</strong>, Fredreic Li*, Shichen Ma*, Jie Huang, Yijun Liu, Jiaqi Shi, Yanwen Ma, Yaofeng Su, Xin Lu, Haoyu Wang, Xiaoxiao Ma, Guohui Zhang, Yaowei Li, Mingchen Zhong, Junhao Zhuang, Songchun Zhang, Weiyang Jin, Yuxuan Bian, Shiyi Zhang, Haojun Xu, Shuai Lu, Xin Han, Wei Tang, Tong He, Jiaqi Wang, Ping Luo, Haoyang Huang, Zeyue Xue
+    authors: <strong>Haoran Li*</strong>, Fredreic Li*, Shichen Ma*, Jie Huang, Yijun Liu, Jiaqi Shi, Yanwen Ma, et al.
     conference_short: Tech Report
     conference: Technical Report, 2026
     page: https://echo-team-joy-future-academy-jd.github.io/Echo-LongVideo-Page/

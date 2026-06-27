@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="246" viewBox="0 0 540 246">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#101828"/><stop offset="0.55" stop-color="#1f4b7a"/><stop offset="1" stop-color="#7c3aed"/></linearGradient></defs>
+<rect width="540" height="246" rx="18" fill="url(#g)"/>
+<circle cx="430" cy="54" r="62" fill="#ffffff" opacity="0.09"/>
+<circle cx="92" cy="190" r="70" fill="#ffffff" opacity="0.08"/>
+<text x="34" y="92" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" fill="#fff">OmniForcing</text>
+<text x="36" y="135" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#dbeafe">Real-time Joint Audio-Visual Generation</text>
+<text x="36" y="178" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#bfdbfe">Streaming autoregressive audio-video diffusion</text>
+</svg>
